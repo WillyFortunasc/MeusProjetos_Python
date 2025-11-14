@@ -74,15 +74,16 @@ https://github.com/WillyFortunasc/MeusProjetos_Python/tree/main/Rest_willy.pedid
 
 ## Tela do Swagger UI
 
-![Swagger_aberto](images/1.png)
-![Redoc_aberto](images/2.png)
-![get_pedidos](images/3.png)
-![post_pedidos](images/4.png)
-![get_pedidos_pedidos_id](images/5.png)
-![Put_Pedidos_pedidos id](images/6.png)
-![Delete_pedidos_pedidos_id](images/7.png)
-![Get_Clientes_listar_clientes](images/8.png)
-![Post_Clientes_listar_clientes](images/9.png)
-![Get_Clientes_clientes_id](images/10.png)
-![Put_Clientes_clientes_id](images/11.png)
-![Delete_Clientes_clientes_id](images/12.png)
+![](images/1.png)
+![](images/2.png)
+![](images/3.png)
+![](images/4.png)
+![](images/5.png)
+![](images/6.png)
+![](images/7.png)
+![](images/8.png)
+![](images/9.png)
+![](images/10.png)
+![](images/11.png)
+![](images/12.png)
+
