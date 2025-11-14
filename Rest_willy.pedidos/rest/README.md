@@ -74,7 +74,7 @@ https://github.com/WillyFortunasc/MeusProjetos_Python/tree/main/Rest_willy.pedid
 
 ## Tela do Swagger UI
 
-![](images/1.png)
+![images](images/1.png)
 ![](images/2.png)
 ![](images/3.png)
 ![](images/4.png)
