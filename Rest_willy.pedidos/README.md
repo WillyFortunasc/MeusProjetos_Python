@@ -74,8 +74,8 @@ https://github.com/WillyFortunasc/MeusProjetos_Python/tree/main/Rest_willy.pedid
 
 ## Tela do Swagger UI
 
-![1. Swagger aberto](images/1_1.png)
-![1.1 Swagger aberto](/1_2.png)
+![1.1 Swagger aberto](images/1_1.png)
+![1.2 Swagger aberto](images/1_2.png)
 ![2. Redoc aberto](images/2.png)
 ![3.1 get pedidos](images/3_1.png)
 ![3.2 get pedidos](images/3_2.png)
