@@ -74,16 +74,4 @@ https://github.com/WillyFortunasc/MeusProjetos_Python/tree/main/Rest_willy.pedid
 
 ## Tela do Swagger UI
 
-![](images/1.png)
-![](images/2.png)
-![](images/3.png)
-![](images/4.png)
-![](images/5.png)
-![](images/6.png)
-![](images/7.png)
-![](images/8.png)
-![](images/9.png)
-![](images/10.png)
-![](images/11.png)
-![](images/12.png)
-
+![Texto Descritivo da Imagem](MeusProjetos_Python/Rest_willy.pedidos/IWS/rest/images/1.png)
