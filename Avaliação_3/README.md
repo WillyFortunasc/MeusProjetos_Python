@@ -73,7 +73,6 @@ Código replicado do exemplo proposto pelo professor para estudo.
 https://github.com/WillyFortunasc/MeusProjetos_Python/tree/main/Rest_willy.pedidos
 
 ## Tela do Swagger UI
-<img width="183" height="162" alt="image" src="https://github.com/user-attachments/assets/04ebda33-3eae-4561-a562-1e0f05bdee36" />
 
 ![](images/1.png)
 ![](images/2.png)
