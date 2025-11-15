@@ -74,4 +74,4 @@ https://github.com/WillyFortunasc/MeusProjetos_Python/tree/main/Rest_willy.pedid
 
 ## Tela do Swagger UI
 
-<img width="1918" height="969" alt="Image" src="https://github.com/user-attachments/assets/9008923d-d3a8-4ba6-ab2c-d92763efc486" />
+
