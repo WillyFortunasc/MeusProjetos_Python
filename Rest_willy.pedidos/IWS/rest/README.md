@@ -74,4 +74,8 @@ https://github.com/WillyFortunasc/MeusProjetos_Python/tree/main/Rest_willy.pedid
 
 ## Tela do Swagger UI
 
+<<<<<<< HEAD
 https://github.com/WillyFortunasc/MeusProjetos_Python/issues/2#issue-3627783302
+=======
+
+>>>>>>> 076d3fd9b2cc0521a9e639e90643895e4b123578
