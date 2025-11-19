@@ -1,9 +1,6 @@
-from rest_framework.routers import DefaultRouter
-from .views import ProjetoViewSet, TarefaViewSet, ResponsavelViewSet
+from django.urls import path
+from .views import HelloWorldView
 
-router = DefaultRouter()
-router.register(r'projetos', ProjetoViewSet, basename='projeto')
-router.register(r'tarefas', TarefaViewSet, basename='tarefa')
-router.register(r'responsaveis', ResponsavelViewSet, basename='responsavel')
-
-urlpatterns = router.urls
+urlpatterns = [
+    path('hello/', HelloWorldView.as_view(), name='hello'),
+]
