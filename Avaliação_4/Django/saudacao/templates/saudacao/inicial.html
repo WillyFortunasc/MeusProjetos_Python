@@ -1,0 +1,26 @@
+{% extends 'saudacao/base.html' %}
+
+{% block title %}Página Inicial - Exemplo Django{% endblock %}
+
+{% block content %}
+<div class="card">
+    <div class="card-header">
+        <h2>Digite seu nome</h2>
+    </div>
+    <div class="card-body">
+        <form method="post">
+            {% csrf_token %}
+            <div class="mb-3">
+                {{ form.nome.label_tag }}
+                {{ form.nome }}
+                {% if form.nome.errors %}
+                    <div class="alert alert-danger mt-2">
+                        {{ form.nome.errors }}
+                    </div>
+                {% endif %}
+            </div>
+            <button type="submit" class="btn btn-primary">Dizer Olá</button>
+        </form>
+    </div>
+</div>
+{% endblock %}

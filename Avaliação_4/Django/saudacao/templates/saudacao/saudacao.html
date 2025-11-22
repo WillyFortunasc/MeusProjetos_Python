@@ -1,0 +1,16 @@
+{% extends 'saudacao/base.html' %}
+
+{% block title %}Saudação - Exemplo Django{% endblock %}
+
+{% block content %}
+<div class="card">
+    <div class="card-header">
+        <h2>Saudação</h2>
+    </div>
+    <div class="card-body text-center">
+        <h3 class="text-success">Olá, {{ nome }}!</h3>
+        <p class="mt-3">É um prazer conhecê-lo!</p>
+        <a href="{% url 'inicial' %}" class="btn btn-secondary">Voltar</a>
+    </div>
+</div>
+{% endblock %}
