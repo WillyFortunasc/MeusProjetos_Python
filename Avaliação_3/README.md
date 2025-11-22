@@ -86,5 +86,4 @@ https://github.com/WillyFortunasc/MeusProjetos_Python/tree/main/Rest_willy.pedid
 ![](images/10.png)
 ![](images/11.png)
 ![](images/12.png)
-<img width="1918" height="969" alt="1" src="https://github.com/user-attachments/assets/431cc0b3-5e93-4516-8761-c165d78122c4" />
 
