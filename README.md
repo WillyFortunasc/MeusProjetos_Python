@@ -3,4 +3,5 @@
 Programador iniciante em Python!
 Quero utilizar esse conhecimento e aplicá - lo junto com o ensino de biologia.
 
-![xavier-cee-psda_ahlz40-unsplash-1060x796](https://github.com/user-attachments/assets/6c47cf39-b11f-4d0b-86fd-a72db9ac4d33)
+
+<img width="1464" height="910" alt="Captura de tela 2025-11-22 152927" src="https://github.com/user-attachments/assets/3770e330-d37d-4fd9-b79c-ce4b6b83f82f" />
